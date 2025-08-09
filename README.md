@@ -1,4 +1,5 @@
 <h1>🚀 Amapon</h1>
+<p>Ainda vou terminar</p>
 <br>
 <h3>📋 Índice</h3>
 <p>Descrição</p>
@@ -18,6 +19,8 @@ CSS3
 Git (para controle de versão)
 GitHub (para hospedagem e colaboração)
 📁 Estrutura de Pastas
+
+```
 meu-projeto/
 ├── docs/             # Documentação extra
 ├── src/
@@ -25,6 +28,7 @@ meu-projeto/
 │   │   └── style.css
 │   └── index.html    # Arquivo principal
 └── README.md
+```
 🛠️ Desenvolvimento e Instalação
 Siga os passos abaixo para configurar o ambiente de desenvolvimento e executar o projeto:
 
